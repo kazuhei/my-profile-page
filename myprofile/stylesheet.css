@@ -2,7 +2,6 @@ html {
     line-height: 1.15;
 }
 
-
 body {
     /* 画像ファイルの指定 */
     background-image: url(http://natgeo.nikkeibp.co.jp/nng/images/photo/tree-canopy-honduras.jpg);
@@ -28,8 +27,7 @@ body {
     border-radius: 1000px;
 }
 
-
-.contents-wrapper{
+.contents-wrapper {
     text-align: center;
     color: white;
     font-size: 25px;
@@ -45,13 +43,13 @@ body {
     color: #FFFFFF;
 }
 
-input,textarea {
-    width:250px;
-    margin-top:10px;
-    margin-bottom:30px;
-    padding:20px;
-    font-size:15px;
-    border:1px solid #dee7ec;
+input, textarea {
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 15px;
+    border: 1px solid #dee7ec;
     border-radius: 15px;
 }
 
